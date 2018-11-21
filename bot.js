@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "509753853147873280"; // ايدي السررفر
 var channel = "514538009287327775";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , OBX Shop , **')
     },305);
 })
 
